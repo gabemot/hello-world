@@ -1,4 +1,4 @@
 # hello-world
 My hello-world project on GitHub
 
-Greetings, fellow humans!
+Greetings, fellow humans! I come in peace.
